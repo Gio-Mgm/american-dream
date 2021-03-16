@@ -1,3 +1,5 @@
 env/
+conf/
 .vscode/
-conf
+.pynb_checkpoints/
+data/
