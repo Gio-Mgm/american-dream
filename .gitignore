@@ -1,6 +1,5 @@
 env/
 conf/
 .vscode/
-.pynb_checkpoints/
 data/
-archived/
+src/__pychache__/
